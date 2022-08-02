@@ -1,4 +1,4 @@
-package ex16;
+package interfaces.ex16;
 
 public class Gitar implements MusicInstrument {
     @Override

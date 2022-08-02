@@ -1,4 +1,4 @@
-package ex16;
+package interfaces.ex16;
 
 public interface Setting {
     void setting();

@@ -1,13 +1,8 @@
-package ex16;
+package interfaces.ex15;
 
-public class Baraban implements MusicInstrument {
+public class Baraban implements Setting {
     @Override
     public void setting() {
         System.out.println("Отличная весч барабан, его не нужно настраивать главное не порвать");
-    }
-
-    @Override
-    public void play() {
-        System.out.println("Бить громко в барабан");
     }
 }

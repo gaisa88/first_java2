@@ -1,4 +1,4 @@
-package ex16;
+package interfaces.ex16;
 
 public class Piano implements MusicInstrument {
     @Override

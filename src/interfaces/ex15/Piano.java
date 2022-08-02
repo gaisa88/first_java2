@@ -1,4 +1,4 @@
-package ex15;
+package interfaces.ex15;
 
 public class Piano implements Setting {
     @Override

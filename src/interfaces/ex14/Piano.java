@@ -1,4 +1,4 @@
-package ex14;
+package interfaces.ex14;
 
 public class Piano implements Play{
     @Override
